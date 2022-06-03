@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Andrea Dorado Urbano
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Se trata de un videojuego de aventura/fantasía en la que la protagonista, Ophelia, mejor conocida como Ophi, debe recuperar los minerales mágicos robados por un mago autoproclamado rey, y así volver a restaurar la paz.
 
 **Estilo/género:**  Videojuego
 
