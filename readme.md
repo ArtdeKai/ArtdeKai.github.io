@@ -18,7 +18,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Videojuego
 
-**Logotipo** : 
+**Logotipo** :
+
 ![Logotipo](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/logotipo.png)
 
 (insertar imágenes a resolucion de 100px alto)
