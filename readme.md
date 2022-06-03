@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Ophelia
 
-**Web:**   (url github.io)
+**Web:**   ArtdeKai.github.io/Ophelia
 
 **Autor:**  Andrea Dorado Urbano
 
