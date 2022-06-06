@@ -48,6 +48,9 @@ El proyecto empieza con una breve introducción que lleva hasta el menú de inic
 ![Al comenzar la partida, esta se inicia con una introducción a la historia.](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2869%29.png)
 Al comenzar la partida, esta se inicia con una introducción a la historia.
 
+![Al acabar la introducción, comienza una escena en la que la protagonista comenta cual es su misión. Al acabar la escena se puede mover al personaje con los botones de derecha/izquierda para pasar a la siguiente pantalla](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2871%29.png)
+Al acabar la introducción, comienza una escena en la que la protagonista comenta cual es su misión. Al acabar la escena se puede mover al personaje con los botones de derecha/izquierda para pasar a la siguiente pantalla.
+
 
 ### 2.2. Esquema de navegación 
 
