@@ -45,7 +45,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![El proyecto empieza con una breve introducción que lleva hasta el menú de inicio. Además de comenzar la partida, desde aquí también se puede acceder a la galería, los créditos y a una sección sobre la artista.  ](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2867%29.png)
 El proyecto empieza con una breve introducción que lleva hasta el menú de inicio. Además de comenzar la partida, desde aquí también se puede acceder a la galería, los créditos y a una sección sobre la artista.
 
-
+![Al comenzar la partida, esta se inicia con una introducción a la historia.](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2869%29.png)
+Al comenzar la partida, esta se inicia con una introducción a la historia.
 
 
 ### 2.2. Esquema de navegación 
