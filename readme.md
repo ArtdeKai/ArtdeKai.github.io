@@ -57,6 +57,9 @@ Este es el segundo escenario, donde ocurre un evento que indica que estas cerca 
 ![La batalla contra el primer enemigo](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2873%29.png)
 La batalla contra el primer enemigo.
 
+![Tras derrotar al enemigo se desbloquea un puzzle.](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2875%29.png)
+Tras derrotar al enemigo se desbloquea un puzzle.
+
 ### 2.2. Esquema de navegación 
 
 
