@@ -34,9 +34,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios**:
 
-- Github: https://github.com/ArtdeKai
-- Twitter: https://twitter.com/artdekai
-- Instagram: https://www.instagram.com/art.dekai/
+· Github: https://github.com/ArtdeKai
+· Twitter: https://twitter.com/artdekai
+· Instagram: https://www.instagram.com/art.dekai/
 
 # 2. Memoria del proyecto 
 
@@ -81,20 +81,20 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+· Los primeros videojuegos pertenecientes al título Final Fantasy tanto en la estética pixel como en la historia y la batalla.
+· Los videojuegos de Profesor Layton en el caso del puzzle.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto es interesante porque contiene una historia que a primera vista puede resultar atractiva para quienes disfruten de este tipo de género y detalles como puede ser la aleatoriedad en cuanto a la respuesta del enemigo, que hace que la batalla dependa del azar. También destacan los letreros de ayuda, que se puedan saltar las escenas y que, si se muere, haya una opción de reintentar.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+· Orientado a todos los públicos, particularmente adolescentes y adultos jóvenes.
 
 
 
@@ -104,11 +104,10 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+· Juego: En mi caso, el juego tiene 3 elementos claves que son: El movimiento del personaje con el teclado y hacer que pase a la siguiente escena y que este se siga viendo, la batalla y la aleatoriedad del enemigo y el puzzle. Para los 3 utilicé la teoría impartida en clase, pero tuve que investigar más allá para poder solucionar ciertos detalles que me interesaban meter, como puede ser la vinculación del Visor de Imágenes con la Galería de Imágenes en el programa Hippani.
+· Video: Con respecto al video, este decidí incluirlo dentro de una sección sobre mí porque tiene que ver con las influencias para este juego.
+· Instrucciones y ayuda al usuario: Vi necesario incluir letreros de ayuda para explicar cómo funciona el movimiento del personaje, así como para la batalla. Este último letrero se puede recuperar gracias al botón de Info que aparece en la esquina superior derecha de la pantalla, con solo pasar el ratón por encima.
+· Menús y elementos de navegación (botones): En el menú aparecen elementos típicos en videojuegos como puede ser el ajuste de volumen u otras opciones como la galería, los créditos y una sección de artista. Todos los botones que aparecen en el menú, y la gran mayoría de los que aparecen en el juego, son diseños propios. Uno de los botones que más aparecen en todo el proyecto es una flecha, cuya función es la de pasar los diálogos o las imágenes en la galería, así como confirmar la respuesta en el puzzle. El botón de SKIP también aparece mucho, pero en este caso es para saltar las escenas, la batalla y el puzzle según la situación.
 
 
 
