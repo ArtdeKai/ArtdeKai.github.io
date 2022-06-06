@@ -102,8 +102,6 @@ Este proyecto es interesante porque contiene una historia que a primera vista pu
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
 - Juego: En mi caso, el juego tiene 3 elementos claves que son: El movimiento del personaje con el teclado y hacer que pase a la siguiente escena y que este se siga viendo, la batalla y la aleatoriedad del enemigo y el puzzle. Para los 3 utilicé la teoría impartida en clase, pero tuve que investigar más allá para poder solucionar ciertos detalles que me interesaban meter, como puede ser la vinculación del Visor de Imágenes con la Galería de Imágenes en el programa Hippani.
 - Video: Con respecto al video, este decidí incluirlo dentro de una sección sobre mí porque tiene que ver con las influencias para este juego.
 - Instrucciones y ayuda al usuario: Vi necesario incluir letreros de ayuda para explicar cómo funciona el movimiento del personaje, así como para la batalla. Este último letrero se puede recuperar gracias al botón de Info que aparece en la esquina superior derecha de la pantalla, con solo pasar el ratón por encima.
@@ -113,7 +111,7 @@ Este proyecto es interesante porque contiene una historia que a primera vista pu
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+En un principio no he detectado ningún problema excepto que si se pulsan los botones de movimiento de forma brusca, el juego puede hacer saltos entre escenas. 
 
 
 
@@ -121,7 +119,7 @@ Este proyecto es interesante porque contiene una historia que a primera vista pu
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
-
+También cabe destacar que el juego estaba inicialmente diseñado para ser más largo, por ello en vez de poner FIN al acabar la partida pone CONTINUARÁ, aunque no sea un problema en realidad.
 
 
 
