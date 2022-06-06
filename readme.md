@@ -54,6 +54,9 @@ Al acabar la introducción, comienza una escena en la que la protagonista coment
 ![Este es el segundo escenario, donde ocurre un evento que indica que estas cerca del primer enemigo.](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2872%29.png)
 Este es el segundo escenario, donde ocurre un evento que indica que estas cerca del primer enemigo.
 
+![La batalla contra el primer enemigo](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2873%29.png)
+La batalla contra el primer enemigo.
+
 ### 2.2. Esquema de navegación 
 
 
