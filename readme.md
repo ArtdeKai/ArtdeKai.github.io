@@ -51,6 +51,8 @@ Al comenzar la partida, esta se inicia con una introducción a la historia.
 ![Al acabar la introducción, comienza una escena en la que la protagonista comenta cual es su misión. Al acabar la escena se puede mover al personaje con los botones de derecha/izquierda para pasar a la siguiente pantalla](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2871%29.png)
 Al acabar la introducción, comienza una escena en la que la protagonista comenta cual es su misión. Al terminar la escena se puede mover al personaje con los botones de derecha/izquierda para pasar a la siguiente pantalla.
 
+![Este es el segundo escenario, donde ocurre un evento que indica que estas cerca del primer enemigo.](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Captura%20de%20pantalla%20%2872%29.png)
+Este es el segundo escenario, donde ocurre un evento que indica que estas cerca del primer enemigo.
 
 ### 2.2. Esquema de navegación 
 
