@@ -62,9 +62,7 @@ Tras derrotar al enemigo se desbloquea un puzzle.
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![pag 1](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Mapa%20de%20navegaci%C3%B3n/Storyboard_Teaser%20%281%29.jpg)
 
 
 
