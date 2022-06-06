@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Andrea Dorado Urbano
 
-**Resumen** : Se trata de un videojuego de aventura/fantasía en la que la protagonista, Ophelia, mejor conocida como Ophi, debe recuperar los minerales mágicos robados por un mago autoproclamado rey, y así volver a restaurar la paz.
+**Resumen** : Videojuego de aventura/fantasía en la que la protagonista, Ophelia, mejor conocida como Ophi, debe recuperar los minerales mágicos robados por un mago autoproclamado rey, y así volver a restaurar la paz.
 
 **Estilo/género:**  Videojuego
 
@@ -22,24 +22,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ![Logotipo](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/logotipo.png)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px (tamaño fijo y reescalable).
 
-**Probado en:** Google Chrome / Opera / móviles android
+**Probado en:** Google Chrome / Opera / móviles android / Ipad
 
 **Tamaño proyecto:** 11'8MB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia**: Este proyecto tiene una Licencia CC Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional
 
-**Fecha** : 03/06/2022
+**Fecha**: 03/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github: https://github.com/ArtdeKai
 - Twitter: https://twitter.com/artdekai
 - Instagram: https://www.instagram.com/art.dekai/
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -47,7 +44,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+
 
 
 
