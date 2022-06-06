@@ -64,10 +64,11 @@ Tras derrotar al enemigo se desbloquea un puzzle.
 
 ![pag 1](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Mapa%20de%20navegaci%C3%B3n/Storyboard_Teaser%20%281%29.jpg)
 
+![pag 2](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Mapa%20de%20navegaci%C3%B3n/Storyboard_2.jpg)
 
+![pag 3](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Mapa%20de%20navegaci%C3%B3n/Storyboard_3.jpg)
 
-
-
+![pag 4](https://github.com/ArtdeKai/ArtdeKai.github.io/blob/master/Documentaci%C3%B3n%20Ophelia/Mapa%20de%20navegaci%C3%B3n/Storyboard_4.jpg)
 
 
 # 3. Metodología
