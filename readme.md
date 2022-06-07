@@ -156,7 +156,7 @@ Pixel Art Forest - "Background"
 - Audacity
 - Da Vinci Resolve
 
-![image](https://user-images.githubusercontent.com/106731895/172358663-9a986d5a-8599-43bc-aef3-73a4f67ecfb5.png)
+![image](https://user-images.githubusercontent.com/106731895/172360324-c235fa62-2bdd-4e27-87da-67ac61d1f0e3.png)
 
 https://creativecommons.org/licenses/?lang=es
 
