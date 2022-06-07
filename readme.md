@@ -117,34 +117,46 @@ En un principio no he detectado ningún problema excepto que si se pulsan los bo
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-También cabe destacar que el juego estaba inicialmente diseñado para ser más largo, por ello en vez de poner FIN al acabar la partida pone CONTINUARÁ, aunque no sea un problema en realidad.
-
-
-
+El proyecto sin duda me ha resultado muy divertido, y siempre me he visto motivada a seguir trabajando y mejorándolo ya que el mundo de los videojuegos es algo que desde siempre me ha encantado. Es por ello que en cierto modo me lo he tomado como un reto personal, descubrir como de lejos podía llegar con el proyecto e intentando hacerlo lo mejor posible dentro del escaso tiempo que teníamos y de las limitaciones de Hippani, que en su momento me llegó a dar problemas con el aspecto de la tipografía, por ejemplo. Ahora que el proyecto está acabado, me siento muy contenta con el resultado. Pero cabe destacar que el juego estaba inicialmente diseñado para ser más largo, por ello en vez de poner FIN al acabar la partida pone CONTINUARÁ, aunque no sea un problema en realidad porque cumplo con todos los requisitos del proyecto. Sí es verdad que me hubiera gustado llegar a finalizar la trama y no haberlo dejado como una demo del juego, pero no daba tiempo a más. Es por ello que me pongo como propósito acabarla algún día.
 
 
 # 5 Referencias 
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+- Web de Square-Enix: https://finalfantasypixelremaster.square-enix-games.com/en_GB
+- Web de Nintendo: https://www.nintendo.es/Juegos/Portal-de-Nintendo/Portal-para-la-serie-Layton/Portal-de-la-serie-Layton-627605.html
+- Sobre el Pixel Art en videojuegos: https://www.crehana.com/blog/diseno-grafico/pixel-art-videojuegos/
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: 
+
+Eric Skiff - "A Night Of Dizzy Spells"
+
+The Whole Other - "8-Bit Dreamscape"
+
+Pixel Beats - "Moonlight"
+
+Pixel Beats - "River"
+
+Pixel Beats - "The Wind and the Leaves"
+
+Pixel Art Forest - "Background"
+
+* Imágenes:  Freepik, Shutterstock, iStock
+* Tipografía: PressStart 2P y Determination Mono
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Piskel
+- Photoshop
+- Procreate
+- Audacity
+- Da Vinci Resolve
 
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![image](https://user-images.githubusercontent.com/106731895/172358663-9a986d5a-8599-43bc-aef3-73a4f67ecfb5.png)
 
 https://creativecommons.org/licenses/?lang=es
 
