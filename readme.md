@@ -122,7 +122,7 @@ El proyecto sin duda me ha resultado muy divertido, y siempre me he visto motiva
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
+**Artículos y blogs** 
 
 - Web de Square-Enix: https://finalfantasypixelremaster.square-enix-games.com/en_GB
 - Web de Nintendo: https://www.nintendo.es/Juegos/Portal-de-Nintendo/Portal-para-la-serie-Layton/Portal-de-la-serie-Layton-627605.html
