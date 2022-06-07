@@ -88,7 +88,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este proyecto es interesante porque contiene una historia que a primera vista puede resultar atractiva para quienes disfruten de este tipo de género y detalles como puede ser la aleatoriedad en cuanto a la respuesta del enemigo, que hace que la batalla dependa del azar. También destacan los letreros de ayuda, que se puedan saltar las escenas y que, si se muere, haya una opción de reintentar.
+Este proyecto es interesante porque contiene una historia que a primera vista puede resultar atractiva para quienes disfruten de este tipo de género y detalles como puede ser la aleatoriedad en cuanto a la respuesta del enemigo, que hace que la batalla dependa del azar. También destacan los contadores, los letreros de ayuda, que se puedan saltar las escenas, y que, si se muere, haya una opción de reintentar.
 
 
 
